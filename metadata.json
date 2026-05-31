@@ -1,0 +1,6 @@
+{
+  "name": "Puro Sabor",
+  "description": "Lanchonete & Restaurante Puro Sabor - Sistema integrado de menu digital, frente de loja, checkout via WhatsApp e Painel de Controle Administrativo completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
